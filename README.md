@@ -1,5 +1,5 @@
 # Dynamic Storage Allocator
-A dynamic storage allocator for C programs that implements the malloc and free realloc routines.
+A dynamic storage allocator for C programs that implements the malloc and free routines.
  - mdriver.c – testing driver
  - mm.c – memory allocator implementation
 
